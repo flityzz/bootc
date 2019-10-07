@@ -5,5 +5,5 @@ app parecido com airbnb, mas para programadores escolherem seus spots para bootc
 
 # web 
 
-![Uploading Screenshot_15.png…]()
+
 
